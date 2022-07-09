@@ -350,3 +350,4 @@ sudo cp -d libpcl_* /usr/lib/x86_64-linux-gnu/ # 将这些so文件复制到之�
 
 [花了50大洋买回来的教训](https://www.icode9.com/content-4-1134365.html)
 
+[cudart](https://askubuntu.com/questions/510176/usr-bin-ld-cannot-find-lcudart/510194#510194)
